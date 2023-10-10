@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/ThMrtns/semantic-release/compare/v1.1.0...v1.2.0) (2023-10-10)
+
+
+### Features
+
+* endpoint resp change ([0e17a8c](https://github.com/ThMrtns/semantic-release/commit/0e17a8c247ab3e7a07d0bed3952edaddbfffcf13))
+* new endpoint ([0c739a7](https://github.com/ThMrtns/semantic-release/commit/0c739a7b38fc709d374b826de59873c66ec76e28))
+
 # [1.1.0](https://github.com/lukasnerdware/semantic-release/compare/v1.0.0...v1.1.0) (2023-10-10)
 
 
