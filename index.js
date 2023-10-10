@@ -15,7 +15,7 @@ app.get('/v3/', function (_req, res) {
 })
 
 app.get('/newfeature/', function (_req, res) {
-  res.send('New Feature Endpoint Response')
+  res.send('New Feature Endpoint Response - change')
 })
 
 app.listen(3000)
